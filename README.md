@@ -1,5 +1,6 @@
 
-# Specification 'sustainability'
+# Sustainability Community Group 
 
-This is the repository for sustainability. You're welcome to contribute! Let's make the Web rock our socks
-off!
+This is the in-progress repository for the Sustainability Community Group.
+
+Please [join](https://www.w3.org/community/sustainability/join) to contribute.
